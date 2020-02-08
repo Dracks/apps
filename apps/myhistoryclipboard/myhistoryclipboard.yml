@@ -1,0 +1,14 @@
+name: MyHistoryClipboard
+description: 'Clipboard History.'
+website: 'https://github.com/Dracks/clipboard-history'
+category: Utilities
+repository: 'https://github.com/Dracks/clipboard-history'
+keywords:
+    - clipboard
+    - mac
+    - windows
+    - linux
+    - productivity
+    - clipboard-manager
+    - clipboard-history
+license: 'GPL v3'
